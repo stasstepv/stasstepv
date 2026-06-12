@@ -1,18 +1,24 @@
 ### Hey, I'm Stas 👋
 
-I build AI-first systems — agents, automations, and the memory that makes them actually useful. I came from a non-traditional path, and I learn by shipping real things, not toy demos.
+I'm based in Germany 🇩🇪 and I build AI-first systems — mostly agents, automations, and the memory that makes them actually work.
 
-🇩🇪 Based in Germany · building agentic systems end-to-end
+I came into this from a non-traditional path, so I learn the way that works for me: by building real things, shipping them, and fixing what breaks.
 
-**What I'm building**
+What pulls me in are the hard problems. The messy, complicated ones that other people have already given up on.
 
-- 🎬 a full AI video/shorts pipeline — agent orchestration, a memory layer, a FastAPI backend and a TypeScript frontend (a big, long-running project)
-- 🧠 a cognitive memory engine for AI agents — giving them long-term memory and context (work in progress)
-- 🤖 smaller bots & automations along the way — n8n, image generation, a lot of glue code
+> **"Aut viam inveniam aut faciam."**
+> *I'll either find a way, or build one.*
+> — Hannibal
+
+**What I'm working on**
+
+- 🎬 a full AI video/shorts pipeline — agent orchestration, a memory layer, a FastAPI backend and a TypeScript frontend. It's big and it's been a long road.
+- 🧠 a cognitive memory engine for AI agents, so they can actually remember things and keep context. Still in progress.
+- 🤖 smaller bots and automations along the way: n8n, image generation, and plenty of glue code holding it all together.
 
 **How I work**
 
-> Build, break, learn, repeat. I care about real architecture — contracts, migrations, tests — even when I'm moving fast. Call it vibe coding with an engineering backbone.
+I move fast, but I care about the boring stuff that keeps things alive — contracts, migrations, tests. Call it vibe coding with an engineering backbone.
 
 **Tools I reach for**
 
